@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajantha-bhat, I am PMC of Apache Carbondata.
+- 👋 Hi, I’m @ajantha-bhat.
 - 👀 I’m interested in OpenSource software development around bigdata and distributed systems.
 - 🌱 I’m currently learning many things, mainly related to bigdata and distributed systems.
 - TODO: update this intro with more details!
