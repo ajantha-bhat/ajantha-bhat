@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajantha-bhat. I am Apache Carbondata PMC. Recently (Oct-2021) started looking into Project Nessie and Apache iceberg.
+- 👋 Hi, I’m @ajantha-bhat. I am Apache Carbondata PMC. Recently (Oct-2021) started looking into Project Nessie and Apache Iceberg.
 - 👀 I’m interested in OpenSource software development around bigdata and distributed systems.
 - 🌱 I’m currently learning many things, mainly related to bigdata and distributed systems.
 - TODO: update this intro with more details!
